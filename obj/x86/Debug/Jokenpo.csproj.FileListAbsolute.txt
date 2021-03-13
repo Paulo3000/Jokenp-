@@ -1,0 +1,5 @@
+C:\Users\Julia3000\Desktop\c#programing\Jokenpo\Jokenpo\obj\x86\Debug\Jokenpo.exe
+C:\Users\Julia3000\Desktop\c#programing\Jokenpo\Jokenpo\obj\x86\Debug\Jokenpo.pdb
+C:\Users\Julia3000\Desktop\c#programing\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe
+C:\Users\Julia3000\Desktop\c#programing\Jokenpo\Jokenpo\bin\Debug\Jokenpo.pdb
+C:\Users\Julia3000\Desktop\c#programing\Jokenpo\Jokenpo\obj\x86\Debug\ResolveAssemblyReference.cache
